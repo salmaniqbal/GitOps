@@ -5,5 +5,5 @@ metadata:
 spec:
   containers:
   - name: gitea-container
-    image: gitea/gitea:1.2
+    image: gitea/gitea:1.3
     
